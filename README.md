@@ -23,6 +23,11 @@
 
 > **Yöntem:** Problemi anla → sistemi tasarla → doğrula → gerekli insan onayını al → kontrollü uygula.
 
+### Teknik portföy
+
+- **[Business Systems · Case Studies](https://github.com/hakandemircitech-sketch/business-systems-case-studies)** — Gerçek çalışmaların mimari incelemeleri; doğrulama ve sınırlar açıkça belgelenir.
+  - [AI Karşılama ve İletişim Akışı](https://github.com/hakandemircitech-sketch/business-systems-case-studies/blob/main/cases/ai-business-discovery-and-lead-intake.md) — MVP / güncel canlı kabul doğrulanmadı.
+
 ### Teknoloji ekosistemi
 
 `TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `Supabase` · `Docker` · `API-first`

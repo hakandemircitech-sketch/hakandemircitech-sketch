@@ -3,7 +3,7 @@
 **Yapay Zekâ ve İş Sistemleri Mimarı**  
 *AI & Business Systems Architect*
 
-İşletmelerin çalışma süreçlerini analiz ederek yapay zekâ ajanları, otomasyon, veri ve yazılımı uygulanabilir dijital sistemlerde birleştirmeye odaklanıyorum. Amacım, yalnızca araçlar geliştirmek değil; gerçek ihtiyaçlara karşılık veren, sürdürülebilir ve denetlenebilir iş akışları tasarlamak.
+Şirket ve İşletmelerin çalışma süreçlerini analiz ederek yapay zekâ ajanları, otomasyon, veri ve yazılımı uygulanabilir dijital sistemlerde birleştirmeye odaklanıyorum. Amacım, yalnızca araçlar geliştirmek değil; gerçek ihtiyaçlara karşılık veren, sürdürülebilir ve denetlenebilir iş akışları tasarlamak.
 
 ### Çalışma alanlarım
 

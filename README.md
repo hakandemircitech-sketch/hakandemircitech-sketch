@@ -31,6 +31,10 @@
 
 **Web:** [www.hakandemirci.tech](https://www.hakandemirci.tech)
 
+**LinkedIn:** [Hakan Demirci](https://www.linkedin.com/in/hakan-demirci-3ba569407/)
+
+**Instagram:** [@hakandemirci.tech](https://www.instagram.com/hakandemirci.tech/)
+
 ---
 
 <sub>Bu profilde tamamlanmış ürünler, geliştirme aşamasındaki prototipler ve araştırma çalışmaları birbirinden ayrı belirtilir. Özel depoların kaynak kodları herkese açık değildir.</sub>

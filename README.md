@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hakan Demirci
 
-<!--
-**hakandemircitech-sketch/hakandemircitech-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yapay Zekâ ve İş Sistemleri Mimarı**  
+*AI & Business Systems Architect*
 
-Here are some ideas to get you started:
+İşletmelerin çalışma süreçlerini analiz ederek yapay zekâ ajanları, otomasyon, veri ve yazılımı uygulanabilir dijital sistemlerde birleştirmeye odaklanıyorum. Amacım, yalnızca araçlar geliştirmek değil; gerçek ihtiyaçlara karşılık veren, sürdürülebilir ve denetlenebilir iş akışları tasarlamak.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Çalışma alanlarım
+
+- **AI ajanları ve otomasyon:** İş akışlarının analizi, ajan görev sınırları ve insan onaylı yürütme.
+- **İş sistemleri mimarisi:** Süreç tasarımı, API entegrasyonları ve veri akışları.
+- **Web uygulamaları:** İşletme odaklı arayüzler ve tam kapsamlı uygulama geliştirme.
+- **Güvenilir sistemler:** Yetkilendirme, izlenebilirlik, doğrulama ve kontrollü değişiklik yönetimi.
+
+### Üzerinde çalıştığım projeler
+
+| Çalışma | Kapsam | Durum |
+| --- | --- | --- |
+| **AI İş Sistemleri** | İşletmeler için karşılama, ihtiyaç analizi ve süreç otomasyonu prototipleri. | MVP / iterasyon |
+| **Fikirge** | Fikirleri yapılandırılmış iş ve proje dosyalarına dönüştürmeyi amaçlayan platform. | Özel geliştirme |
+| **Leonardo Tales** | Ajan mimarisi, hafıza, yetkilendirme ve denetim odaklı araştırma ve sistem tasarımı. | Araştırma / özel geliştirme |
+| **[hakandemirci.tech](https://www.hakandemirci.tech)** | Çalışma alanlarım, yazılarım ve iletişim için kişisel web sitem. | Web sitesi |
+
+> **Yöntem:** Problemi anla → sistemi tasarla → doğrula → gerekli insan onayını al → kontrollü uygula.
+
+### Teknoloji ekosistemi
+
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `Supabase` · `Docker` · `API-first`
+
+### Bağlantı
+
+**Web:** [www.hakandemirci.tech](https://www.hakandemirci.tech)
+
+---
+
+<sub>Bu profilde tamamlanmış ürünler, geliştirme aşamasındaki prototipler ve araştırma çalışmaları birbirinden ayrı belirtilir. Özel depoların kaynak kodları herkese açık değildir.</sub>
